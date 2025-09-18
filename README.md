@@ -37,7 +37,7 @@ The goal is to explore **crime trends, regional patterns, state-wise variations,
 Here are some visuals generated in the project:  
 
 - 📈 Crimes Trend Over the Years
-  Screenshots/1.jpg  
+ ![PICTURE 1](Screenshots/1.jpeg)
 - 📊 Top 10 States with Highest Crimes  
 - 📊 Bottom 5 States with Lowest Crimes  
 - 🥧 Crime Type Distribution (Nationwide)  
