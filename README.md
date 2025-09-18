@@ -1,4 +1,4 @@
-👩‍🦰 Crimes Against Women Data Analysis  
+**👩‍🦰 Crimes Against Women Data Analysis  **
 
 📊 **Crimes Against Women Insights (Python & Visualization)**  
 This project analyzes crimes against women in India using Python.  
@@ -6,8 +6,7 @@ The dataset contains crime data across **states and years**, covering categories
 
 The goal is to explore **crime trends, regional patterns, state-wise variations, and category-wise insights** using data analysis and visualizations.  
 ---
-📊 Features  
-
+**📊 Features ** 
 ➡️ **Data Cleaning & Preprocessing**  
 - Removed duplicate rows and unnecessary columns  
 - Handled missing values  
@@ -33,30 +32,29 @@ The goal is to explore **crime trends, regional patterns, state-wise variations,
 ➡️ **Regional Trends**  
 - Crimes grouped by region (North, South, East, West, Central, North-East)  
 ---
-📷 Visualizations  
+**📷 Visualizations ** 
 
 Here are some visuals generated in the project:  
 
-- 📈 Crimes Trend Over the Years  
+- 📈 Crimes Trend Over the Years
+  Screenshots/1.jpg  
 - 📊 Top 10 States with Highest Crimes  
 - 📊 Bottom 5 States with Lowest Crimes  
 - 🥧 Crime Type Distribution (Nationwide)  
 - 🔥 Correlation Heatmap  
 - 🗺 State vs Year Heatmap  
-- 🌍 Regional Trend Line Chart  
-
-(👉 You can upload screenshots of your plots here once on GitHub)  
+- 🌍 Regional Trend Line Chart    
 ---
-🛠️ Built With  
+**🛠️ Built With ** 
 - **Python (Pandas, NumPy)** – Data handling and preprocessing  
 - **Matplotlib & Seaborn** – Data visualization  
 - **CSV Dataset** – Crimes data source  
 ---
-🛠 How to Use This Project  
+**🛠 How to Use This Project ** 
 1. Download the repository.  
 2. Make sure you have Python installed (>=3.8).  
 3. Install dependencies: pip install pandas numpy matplotlib seaborn
 ---
-🧑‍💻 Author
+**🧑‍💻** Author****
 This project is created by Tanisha Madisetty.
 Feel free to check out my other work or connect with me!
