@@ -34,25 +34,25 @@ The goal is to explore **crime trends, regional patterns, state-wise variations,
 ---
 **📷 Visualizations ** 
 
-Here are some visuals generated in the project:  
+**Here are some visuals generated in the project:**  
 
-- 📈 Crimes Trend Over the Years
+**- 📈 Crimes Trend Over the Years**
   ![PICTURE 1](Screenshots/1.jpg)
-- 📈 Year on Year Growth in Crime
+**- 📈 Year on Year Growth in Crime**
   ![PICTURE 1](Screenshots/2.jpg)
-- 📊 Top 10 States with Highest Crimes
+**- 📊 Top 10 States with Highest Crimes**
   ![PICTURE 1](Screenshots/3.jpg)
-- 📊 Bottom 5 States with Lowest Crimes
+**- 📊 Bottom 5 States with Lowest Crimes**
   ![PICTURE 1](Screenshots/4.jpg)
-- 🔥 Correlation Heatmap
+**- 🔥 Correlation Heatmap**
   ![PICTURE 1](Screenshots/5.jpg)
-- 🥧 Distribution of Crime Types Against Women
+**- 🥧 Distribution of Crime Types Against Women**
    ![PICTURE 1](Screenshots/6.jpg)
-- 🗺 State vs Year Heatmap
+**- 🗺 State vs Year Heatmap**
   ![PICTURE 1](Screenshots/7.jpg)
-- 📈 Trend of Different Crime Types Over the Years
+**- 📈 Trend of Different Crime Types Over the Years**
    ![PICTURE 1](Screenshots/8.jpg) 
-- 🌍 Regional Trend Line Chart
+**- 🌍 Regional Trend Line Chart**
   ![PICTURE 1](Screenshots/9.jpg)    
 ---
 **🛠️ Built With ** 
