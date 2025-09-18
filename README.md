@@ -5,9 +5,7 @@ This project analyzes crimes against women in India using Python.
 The dataset contains crime data across **states and years**, covering categories such as **rape, kidnapping, dowry deaths, domestic violence, assault, and more**.  
 
 The goal is to explore **crime trends, regional patterns, state-wise variations, and category-wise insights** using data analysis and visualizations.  
-
 ---
-
 📊 Features  
 
 ➡️ **Data Cleaning & Preprocessing**  
@@ -34,9 +32,7 @@ The goal is to explore **crime trends, regional patterns, state-wise variations,
 
 ➡️ **Regional Trends**  
 - Crimes grouped by region (North, South, East, West, Central, North-East)  
-
 ---
-
 📷 Visualizations  
 
 Here are some visuals generated in the project:  
