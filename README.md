@@ -1,4 +1,4 @@
- 👩‍🦰 Crimes Against Women Data Analysis  
+👩‍🦰 Crimes Against Women Data Analysis  
 
 📊 **Crimes Against Women Insights (Python & Visualization)**  
 This project analyzes crimes against women in India using Python.  
@@ -8,7 +8,7 @@ The goal is to explore **crime trends, regional patterns, state-wise variations,
 
 ---
 
- 📊 Features  
+📊 Features  
 
 ➡️ **Data Cleaning & Preprocessing**  
 - Removed duplicate rows and unnecessary columns  
